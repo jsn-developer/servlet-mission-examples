@@ -8,6 +8,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * JSP編「世代分け」の解答例
+ * @author HISATO
+ *
+ */
 @WebServlet("/jsp01")
 public class RangeOfAgeServlet extends HttpServlet{
 

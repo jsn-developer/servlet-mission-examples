@@ -8,6 +8,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * JSP編「カウントダウン」の解答例
+ * @author HISATO
+ *
+ */
 @WebServlet("/jsp02")
 public class CounterServlet extends HttpServlet{
 
