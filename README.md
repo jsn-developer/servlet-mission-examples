@@ -14,6 +14,8 @@
 
 ## DAO編
 
+課題ごとに、サーブレット、DAO、JSPが置いてあります。
+
 ### 全件検索  
 [サーブレット](./src/main/java/jp/co/solxyz/lessons/servlet/dao/q01/servlet/ListServlet.java)  
 
