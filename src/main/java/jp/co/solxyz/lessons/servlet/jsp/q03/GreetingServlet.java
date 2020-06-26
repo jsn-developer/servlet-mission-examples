@@ -8,6 +8,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * JSP編「挨拶」の解答例
+ * @author HISATO
+ *
+ */
 @WebServlet("/jsp03")
 public class GreetingServlet extends HttpServlet{
 

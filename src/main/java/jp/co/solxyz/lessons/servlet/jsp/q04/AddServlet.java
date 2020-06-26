@@ -8,6 +8,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * JSP編「足し算」の解答例
+ * @author HISATO
+ *
+ */
 @WebServlet("/jsp04")
 public class AddServlet extends HttpServlet{
 
